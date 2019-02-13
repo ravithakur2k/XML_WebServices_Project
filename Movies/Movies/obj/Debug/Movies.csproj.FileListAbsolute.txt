@@ -1,0 +1,14 @@
+C:\Users\ravit\source\repos\Movies\Movies\bin\Movies.dll.config
+C:\Users\ravit\source\repos\Movies\Movies\bin\Movies.dll
+C:\Users\ravit\source\repos\Movies\Movies\bin\Movies.pdb
+C:\Users\ravit\source\repos\Movies\Movies\obj\Debug\Movies.csprojAssemblyReference.cache
+C:\Users\ravit\source\repos\Movies\Movies\obj\Debug\Movies.csproj.CoreCompileInputs.cache
+C:\Users\ravit\source\repos\Movies\Movies\obj\Debug\Movies.dll
+C:\Users\ravit\source\repos\Movies\Movies\obj\Debug\Movies.pdb
+C:\Users\ravit\Downloads\IS7024-master\IS7024-master\Movies\Movies\bin\Movies.dll.config
+C:\Users\ravit\Downloads\IS7024-master\IS7024-master\Movies\Movies\bin\Movies.dll
+C:\Users\ravit\Downloads\IS7024-master\IS7024-master\Movies\Movies\bin\Movies.pdb
+C:\Users\ravit\Downloads\IS7024-master\IS7024-master\Movies\Movies\obj\Debug\Movies.csprojAssemblyReference.cache
+C:\Users\ravit\Downloads\IS7024-master\IS7024-master\Movies\Movies\obj\Debug\Movies.csproj.CoreCompileInputs.cache
+C:\Users\ravit\Downloads\IS7024-master\IS7024-master\Movies\Movies\obj\Debug\Movies.dll
+C:\Users\ravit\Downloads\IS7024-master\IS7024-master\Movies\Movies\obj\Debug\Movies.pdb

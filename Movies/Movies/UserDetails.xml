@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<?xml-stylesheet type="text/xsl" href="UserDetails.xsl"?>
+<userdetails
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:noNamespaceSchemaLocation="uservalidation.xsd">
+	<users>
+		<firstname>Aroop</firstname>
+		<lastname>Pattanaik</lastname>
+		<bearcatid>M12977927</bearcatid>
+		<favoriteshortcut>Ctrl+Space</favoriteshortcut>
+	</users>
+	<users>
+		<firstname>Ravi</firstname>
+		<lastname>Thakur</lastname>
+		<bearcatid>M12735020</bearcatid>
+		<favoriteshortcut>Ctrl+C</favoriteshortcut>
+	</users>
+	<users>
+		<firstname>Shreya</firstname>
+		<lastname>Pandey</lastname>
+		<bearcatid>M12825166</bearcatid>
+		<favoriteshortcut>Alt+tab</favoriteshortcut>
+	</users>
+	<users>
+		<firstname>Aditya</firstname>
+		<lastname>Khandelwal</lastname>
+		<bearcatid>M12870898</bearcatid>
+		<favoriteshortcut>Ctrl+Tab</favoriteshortcut>
+	</users>
+</userdetails>

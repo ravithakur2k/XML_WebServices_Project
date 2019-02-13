@@ -1,0 +1,90 @@
+﻿body {
+    background-color: #333;
+    color: #fff;
+}
+
+.navbar {
+    border-bottom: #008ed6 3px solid;
+    opacity: 0.8;
+}
+
+#home-section {
+    background: url("../images/universal.jpg") no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 700px;
+}
+
+    #home-section .dark-overlay {
+        background-color: rgba(0, 0, 0, 0.7);
+        position: absolute;
+        height: 700px;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 700px;
+    }
+
+    #home-section .home-inner {
+        padding-top: 150px;
+    }
+
+    #home-section .card-form {
+        opacity: 0.8;
+    }
+
+    #home-section .fa {
+        color: #008ed6;
+        background: #fff;
+        padding: 4px;
+        border-radius: 5px;
+        font-size: 30px;
+    }
+
+#hollywood-section {
+    background: url("../images/Hollywood.jpg") no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 700px;
+}
+
+    #hollywood-section .hollywood-inner {
+        background-color: rgba(0, 0, 0, 0.7);
+        height: 700px;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 700px;
+        padding-top: 150px;
+    }
+
+    #hollywood-section .fa {
+        padding: 4px;
+        font-size: 30px;
+        border-radius: 5px;
+        margin-top: 30px;
+    }
+
+#bollywood-section {
+    background: url("../images/bollywood.jpg") no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 700px;
+}
+
+    #bollywood-section .bollywood-inner {
+        background-color: rgba(0, 0, 0, 0.7);
+        height: 700px;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 700px;
+        padding-top: 150px;
+    }
+
+    #bollywood-section .fa {
+        padding: 4px;
+        font-size: 30px;
+        border-radius: 5px;
+        margin-top: 30px;
+    }
