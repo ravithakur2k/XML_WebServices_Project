@@ -1,0 +1,16 @@
+﻿#weatherImg {
+    background: url(../images/lightening.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+#lyricImg {
+    background: url(../images/lyric.jpg) no-repeat center center fixed;
+    background-size: cover;
+}
+
+.navbar .nav-link {
+    text-transform: uppercase;
+    font-size: 14px;
+    padding-left: 1em !important;
+    padding-right: 1em !important;
+}

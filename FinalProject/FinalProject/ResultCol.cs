@@ -13,21 +13,12 @@ namespace Final_Project
         private string lon;
         [JsonProperty("lat")]
         private string lat;
-  
-
-
+ 
         public string Lon { get => lon; set => lon = value; }
         public string Lat { get => lat; set => lat = value; }
-    
 
     }
-    //public class Weather
-    //{
-    //    private List<WeatherObj> weatherObjs;
-
-    //    public List<WeatherObj> WeatherObjs { get => weatherObjs; set => weatherObjs = value; }
-
-    //}
+  
     public class Weather
     {
         [JsonProperty("id")]
@@ -46,19 +37,7 @@ namespace Final_Project
         public string Icon { get => icon; set => icon = value; }
 
     }
-    //public class Base
-    //{
-    //    [JsonProperty("base")]
-    //    private string baseVal;
- 
-
-
-
-    //    public string BaseVal { get => baseVal; set => baseVal = value; }
-
-
-
-    //}
+   
     public class Main
     {
         [JsonProperty("temp")]
@@ -80,19 +59,7 @@ namespace Final_Project
         public string Temp_max { get => temp_max; set => temp_max = value; }
   
     }
-    //public class Visibility
-    //{
-    //    [JsonProperty("visibility")]
-    //    private string visibilityVal;
-
-
-
-
-    //    public string VisibilityVal { get => visibilityVal; set => visibilityVal = value; }
-
-
-
-    //}
+    
     public class Wind
     {
         [JsonProperty("speed")]
@@ -112,27 +79,10 @@ namespace Final_Project
         [JsonProperty("all")]
         private string all;
 
-
-
-
         public string All { get => all; set => all = value; }
 
-
-
     }
-    //public class Dt
-    //{
-    //    [JsonProperty("dt")]
-    //    private string dtValue;
-
-
-
-
-    //    public string DtValue { get => dtValue; set => dtValue = value; }
-
-
-
-    //}
+   
     public class Sys
     {
         [JsonProperty("type")]
@@ -157,45 +107,7 @@ namespace Final_Project
         public string Sunset { get => sunset; set => sunset = value; }
 
     }
-    //public class Id
-    //{
-    //    [JsonProperty("id")]
-    //    private string idVal;
-
-
-
-
-    //    public string IdVal { get => idVal; set => idVal = value; }
-
-
-
-    //}
-    //public class Name
-    //{
-    //    [JsonProperty("name")]
-    //    private string nameValue;
-
-
-
-
-    //    public string NameValue { get => nameValue; set => nameValue = value; }
-
-
-
-    //}
-    //public class Cod
-    //{
-    //    [JsonProperty("cod")]
-    //    private string codValue;
-
-
-
-
-    //    public string CodValue { get => codValue; set => codValue = value; }
-
-
-
-    //}
+   
     public class RootObject
     {
         [JsonProperty("coord")]

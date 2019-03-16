@@ -12,3 +12,10 @@ C:\Users\ravit\Downloads\IS7024-master\IS7024-master\Movies\Movies\obj\Debug\Mov
 C:\Users\ravit\Downloads\IS7024-master\IS7024-master\Movies\Movies\obj\Debug\Movies.csproj.CoreCompileInputs.cache
 C:\Users\ravit\Downloads\IS7024-master\IS7024-master\Movies\Movies\obj\Debug\Movies.dll
 C:\Users\ravit\Downloads\IS7024-master\IS7024-master\Movies\Movies\obj\Debug\Movies.pdb
+C:\Users\ravit\Documents\GitHub\XML_WebServices_Project\Movies\Movies\bin\Movies.dll.config
+C:\Users\ravit\Documents\GitHub\XML_WebServices_Project\Movies\Movies\bin\Movies.dll
+C:\Users\ravit\Documents\GitHub\XML_WebServices_Project\Movies\Movies\bin\Movies.pdb
+C:\Users\ravit\Documents\GitHub\XML_WebServices_Project\Movies\Movies\obj\Debug\Movies.csprojAssemblyReference.cache
+C:\Users\ravit\Documents\GitHub\XML_WebServices_Project\Movies\Movies\obj\Debug\Movies.csproj.CoreCompileInputs.cache
+C:\Users\ravit\Documents\GitHub\XML_WebServices_Project\Movies\Movies\obj\Debug\Movies.dll
+C:\Users\ravit\Documents\GitHub\XML_WebServices_Project\Movies\Movies\obj\Debug\Movies.pdb

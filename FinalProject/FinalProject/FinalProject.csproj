@@ -74,19 +74,37 @@
     <Reference Include="System.Xml.Linq" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="BandDetail.aspx" />
+    <Content Include="HtmlPage1.html" />
+    <Content Include="lyrics.aspx" />
     <Content Include="Service1.svc" />
     <Content Include="weather.aspx" />
-    <Content Include="weather.css" />
-    <Content Include="weather.html" />
+    <Content Include="weatherAutoComplete.aspx" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="LyricResult.cs" />
+    <Compile Include="BandDetail.aspx.cs">
+      <DependentUpon>BandDetail.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="BandDetail.aspx.designer.cs">
+      <DependentUpon>BandDetail.aspx</DependentUpon>
+    </Compile>
+    <Compile Include="lyrics.aspx.cs">
+      <DependentUpon>lyrics.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="lyrics.aspx.designer.cs">
+      <DependentUpon>lyrics.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Results.cs" />
     <Compile Include="Service1.svc.cs">
       <DependentUpon>Service1.svc</DependentUpon>
     </Compile>
     <Compile Include="IService1.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Music.cs" />
     <Compile Include="weather.aspx.cs">
       <DependentUpon>weather.aspx</DependentUpon>
       <SubType>ASPXCodeBehind</SubType>
@@ -95,6 +113,13 @@
       <DependentUpon>weather.aspx</DependentUpon>
     </Compile>
     <Compile Include="ResultCol.cs" />
+    <Compile Include="weatherAutoComplete.aspx.cs">
+      <DependentUpon>weatherAutoComplete.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="weatherAutoComplete.aspx.designer.cs">
+      <DependentUpon>weatherAutoComplete.aspx</DependentUpon>
+    </Compile>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="App_Data\" />
